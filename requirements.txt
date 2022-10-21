@@ -3,4 +3,3 @@ discord==1.7.3
 asyncio==3.4.3
 DateTime==4.4
 mcstatus==8.0.0
-discord-components==2.1.2
