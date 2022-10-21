@@ -1,5 +1,5 @@
 settings = {
-    'TOKEN': 'MTAzMTE3ODUzMTMzOTc2Mzc4Mw.GL_vwH.jAw73DWwjr8MWb6xpqtxWj1cyJt4KK6A9QMirM',
+    'TOKEN': 'MTAzMTE3ODUzMTMzOTc2Mzc4Mw.G1Jcd_.FtMmD0CU6MZd_G9Tsc19SD61P6zuYqX35P2FDA',
     'PREFIX': '$',
     'errors': True
 }
